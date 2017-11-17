@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "HZFGCDTimer"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "使用 GCD 封装带有 block 的定时器，方便快搜使用"
 
   s.description  = <<-DESC
